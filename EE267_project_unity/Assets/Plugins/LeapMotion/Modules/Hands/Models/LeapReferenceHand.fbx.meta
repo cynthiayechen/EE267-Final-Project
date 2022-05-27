@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 61ff45a45c97aa040b65877017d51fc8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ELBOW
+    100002: //RootNode
+    100004: TYPE_INDEX_TIP
+    100006: TYPE_INDEX_TYPE_DISTAL
+    100008: TYPE_INDEX_TYPE_INTERMEDIATE
+    100010: TYPE_INDEX_TYPE_METACARPAL
+    100012: TYPE_INDEX_TYPE_PROXIMAL
+    100014: TYPE_MIDDLE_TIP
+    100016: TYPE_MIDDLE_TYPE_DISTAL
+    100018: TYPE_MIDDLE_TYPE_INTERMEDIATE
+    100020: TYPE_MIDDLE_TYPE_METACARPAL
+    100022: TYPE_MIDDLE_TYPE_PROXIMAL
+    100024: TYPE_PINKY_TIP
+    100026: TYPE_PINKY_TYPE_DISTAL
+    100028: TYPE_PINKY_TYPE_INTERMEDIATE
+    100030: TYPE_PINKY_TYPE_METACARPAL
+    100032: TYPE_PINKY_TYPE_PROXIMAL
+    100034: TYPE_RING_TIP
+    100036: TYPE_RING_TYPE_DISTAL
+    100038: TYPE_RING_TYPE_INTERMEDIATE
+    100040: TYPE_RING_TYPE_METACARPAL
+    100042: TYPE_RING_TYPE_PROXIMAL
+    100044: TYPE_THUMB_TIP
+    100046: TYPE_THUMB_TYPE_DISTAL
+    100048: TYPE_THUMB_TYPE_INTERMEDIATE
+    100050: TYPE_THUMB_TYPE_METACARPAL
+    100052: TYPE_THUMB_TYPE_PROXIMAL
+    100054: WRIST
+    400000: ELBOW
+    400002: //RootNode
+    400004: TYPE_INDEX_TIP
+    400006: TYPE_INDEX_TYPE_DISTAL
+    400008: TYPE_INDEX_TYPE_INTERMEDIATE
+    400010: TYPE_INDEX_TYPE_METACARPAL
+    400012: TYPE_INDEX_TYPE_PROXIMAL
+    400014: TYPE_MIDDLE_TIP
+    400016: TYPE_MIDDLE_TYPE_DISTAL
+    400018: TYPE_MIDDLE_TYPE_INTERMEDIATE
+    400020: TYPE_MIDDLE_TYPE_METACARPAL
+    400022: TYPE_MIDDLE_TYPE_PROXIMAL
+    400024: TYPE_PINKY_TIP
+    400026: TYPE_PINKY_TYPE_DISTAL
+    400028: TYPE_PINKY_TYPE_INTERMEDIATE
+    400030: TYPE_PINKY_TYPE_METACARPAL
+    400032: TYPE_PINKY_TYPE_PROXIMAL
+    400034: TYPE_RING_TIP
+    400036: TYPE_RING_TYPE_DISTAL
+    400038: TYPE_RING_TYPE_INTERMEDIATE
+    400040: TYPE_RING_TYPE_METACARPAL
+    400042: TYPE_RING_TYPE_PROXIMAL
+    400044: TYPE_THUMB_TIP
+    400046: TYPE_THUMB_TYPE_DISTAL
+    400048: TYPE_THUMB_TYPE_INTERMEDIATE
+    400050: TYPE_THUMB_TYPE_METACARPAL
+    400052: TYPE_THUMB_TYPE_PROXIMAL
+    400054: WRIST
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
